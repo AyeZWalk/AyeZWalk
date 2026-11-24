@@ -6,11 +6,12 @@ I build and troubleshoot Windows and Linux environments, document what I test, a
 
 I'm pursuing IT support and junior security roles, with a focus on endpoint security, vulnerability management, and secure infrastructure.
 
-## Featured project
+## Featured projects
 
 | Project | What I worked on |
 | --- | --- |
 | [Nextcloud on Rocky Linux](https://github.com/AyeZWalk/NextCloud-On-Rocky-Linux) | Deployed a file-sharing service on a Rocky Linux VM with Apache, PHP, and MariaDB. Configured application permissions and validated browser access from Windows. |
+| [Vulnerability Assessment and Firewall Lab](https://github.com/AyeZWalk/vulnerability-assessment-lab) | Configured an OPNsense firewall and compared authenticated and unauthenticated Nessus findings on the same Windows VM. |
 
 ## Technical skills
 
