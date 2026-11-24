@@ -1,59 +1,29 @@
-# Austin “AWZ” Walker  
+# Austin Z. Walker
 
-🎯 **Cybersecurity Professional | Red Team Enthusiast 🕵️‍♂️ | Audio Visual Engineer 🎧 | Music Producer 🎶**
+**IT support and systems administration · Cybersecurity B.S. candidate**
 
----
+I build and troubleshoot Windows and Linux environments, document what I test, and turn repeatable fixes into runbooks. My background in live audio and AV taught me to diagnose issues under time pressure and explain the fix clearly to the people relying on it.
 
-### 👾 About Me  
-I’m passionate about the **red team** side of cybersecurity — hacking, social engineering, and exploring how people interact with technology.  
-Outside of tech, I’m a **Creator and Founder of B.U.R.N.T.**, where I produce 🎶 music for 🎥 media companies, 🕹 game developers, 🎤 artists, and content creators.  
+I'm pursuing IT support and junior security roles, with a focus on endpoint security, vulnerability management, and secure infrastructure.
 
-I also work as an **Audio Visual Engineer (A1/A2 & L1/L2)** — blending my love for sound and lighting design with problem-solving and technology.
+## Featured project
 
----
+| Project | What I worked on |
+| --- | --- |
+| [Nextcloud on Rocky Linux](https://github.com/AyeZWalk/NextCloud-On-Rocky-Linux) | Deployed a file-sharing service on a Rocky Linux VM with Apache, PHP, and MariaDB. Configured application permissions and validated browser access from Windows. |
 
-### 💻 Cyber & Tech Interests  
-- Ethical hacking 🧠 | Social engineering psychology 🎭  
-- Home automation & smart-home security 🏠  
-- Cloud & network security ☁️  
-- System hardening and Linux 🐧  
+## Technical skills
 
----
+- **Systems and support** · Windows, Windows Server, Rocky Linux, Ubuntu, virtualization, software deployment, and troubleshooting
+- **Infrastructure and networking** · Docker Compose, NGINX, web and database hosting, TCP/IP, DNS, and firewall rules
+- **Defensive security** · Vulnerability assessment with Nessus, firewall configuration with OPNsense, least privilege, and security documentation
 
-### 💪 Lifestyle & Passions  
-- 🏈 **Athlete** — love playing football (American) and ultimate frisbee  
-- 👕 **Fashion & Style** — creative expression through reworked and custom fits  
-- ⚙️ **Tech Gear & EDC** — always exploring the latest gadgets and setups  
+## Education
 
----
+**Full Sail University**
 
-### 🚀 Current Goals  
-- Expanding hands-on projects in ethical hacking and smart-home defense  
-- Building a portfolio that shows my real-world lab work  
-- Seeking **internships and junior cybersecurity roles**  
+- B.S. Cybersecurity, expected April 2027
+- A.S. Information Technology, November 2025
+- B.S. Music Production, 2022
 
----
-
-### 🎓 Education  
-🎓 **Full Sail University** — B.S. in Cybersecurity *(in progress)*  
-🎓 **Full Sail University** — A.S. in Information Technology *(2025)*  
-🎓 **Full Sail University** — B.S. in Music Production *(2022)*  
-🎓 **Johnson C. Smith University (JCSU)** — Studied Computer Science *(transferred)*  
-💼 **Google Internship Program** — Completed internship focused on tech innovation and real-world applications  
-
----
-
-### 📍 Location  
-Orlando, FL 🌴 | Washington, D.C. 🏛 | *Willing to relocate*  
-
----
-
-### 🔗 Links  
-🌐 Portfolio Website: *coming soon*  
-🐙 GitHub: [github.com/ayezwalk](https://github.com/ayezwalk)  
-💼 LinkedIn: [Austin Walker](https://www.linkedin.com/in/austin-walker-75b595140)  
-📧 Email: [ayezwalk@gmail.com](mailto:ayezwalk@gmail.com)  
-
----
-
-✨ *“Breaking things to understand how they work — and building things to make them stronger.”*  
+[Connect with me on LinkedIn](https://www.linkedin.com/in/austin-walker-75b595140)
