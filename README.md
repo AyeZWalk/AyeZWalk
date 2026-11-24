@@ -32,6 +32,10 @@ I deployed a file-sharing service using Apache, PHP, and MariaDB on a Rocky Linu
 
 I configured an OPNsense firewall and ran two Nessus scans against the same Windows VM. The unauthenticated scan reported **30 findings**, and the authenticated scan reported **50**. I compared what the scanner could see with each level of access and documented how I’d prioritize and verify fixes. [View the firewall lab](https://github.com/AyeZWalk/vulnerability-assessment-lab)
 
+### SnowBe Security Governance Case Study
+
+I presented my team’s security maturity assessment for a fictional retailer and explained how threat modeling informed our policy recommendations. [View the SnowBe case study](https://github.com/AyeZWalk/snowbe-security-governance)
+
 [Connect with me on LinkedIn](https://www.linkedin.com/in/austin-walker-75b595140)
 
 *“Breaking things to understand how they work — and building things to make them stronger.”*
