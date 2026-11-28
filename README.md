@@ -36,6 +36,14 @@ I configured an OPNsense firewall and ran two Nessus scans against the same Wind
 
 I presented my team’s security maturity assessment for a fictional retailer and explained how threat modeling informed our policy recommendations. [View the SnowBe case study](https://github.com/AyeZWalk/snowbe-security-governance)
 
+### Web Application Incident Review
+
+I turned a fictional web security incident into a response plan covering containment, scope, and verification of access controls. [View the incident case study](https://github.com/AyeZWalk/fictional-web-incident-review)
+
+### Azure Blob Storage Security Design
+
+I proposed a storage security design using private networking, scoped access, monitoring, and a recovery validation plan. [View the Azure design](https://github.com/AyeZWalk/azure-storage-security-design)
+
 [Connect with me on LinkedIn](https://www.linkedin.com/in/austin-walker-75b595140)
 
 *“Breaking things to understand how they work — and building things to make them stronger.”*
