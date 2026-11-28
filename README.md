@@ -44,6 +44,14 @@ I turned a fictional web security incident into a response plan covering contain
 
 I proposed a storage security design using private networking, scoped access, monitoring, and a recovery validation plan. [View the Azure design](https://github.com/AyeZWalk/azure-storage-security-design)
 
+### Network Traffic Analysis
+
+I summarized two coursework captures with verified protocol counts and documented how I would narrow a network investigation. [View the packet analysis](https://github.com/AyeZWalk/network-traffic-analysis)
+
+### AI-Assisted Triage in Network Security
+
+I adapted my Lab 8 presentation into a case study on AI-assisted incident triage and the checks an analyst makes before acting. [View the AI triage case study](https://github.com/AyeZWalk/ai-network-security)
+
 [Connect with me on LinkedIn](https://www.linkedin.com/in/austin-walker-75b595140)
 
 *“Breaking things to understand how they work — and building things to make them stronger.”*
